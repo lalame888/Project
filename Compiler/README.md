@@ -4,11 +4,11 @@
 ## Todo:
 1. Write C code at "Source.txt"
 
-將C code 寫在 "Source.txt" 檔案中
+  將C code 寫在 "Source.txt" 檔案中
 
 2. execute "compiler.exe"
 
-執行"compiler.exe"
+  執行"compiler.exe"
 
 ## Result : 
 You will see the result of C code execution , and get "Source.asm" 
