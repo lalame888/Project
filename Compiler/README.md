@@ -1,5 +1,5 @@
 # The compiler of from C to X86 assembly language 
-# 將 C 轉譯為 X86 組語
+將 C 轉譯為 X86 組語
 
 ## Todo:
 1. Write C code at "Source.txt"
